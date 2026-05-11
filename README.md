@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Rodrigo
+# 👋 Bonjour,
 
 Je m’intéresse à l’intelligence artificielle, à la science des données et à la conception de systèmes informatiques.
 
