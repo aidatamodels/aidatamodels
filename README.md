@@ -2,8 +2,6 @@
 
 Je m’intéresse à l’intelligence artificielle, à la science des données et à la conception de systèmes informatiques.
 
-J’aime explorer les données, analyser des problèmes réels et construire des solutions simples, utiles et bien structurées avec Python, SQL, Power BI et des techniques d’apprentissage automatique.
-
 Mon profil GitHub regroupe mes projets liés à l’analyse de données, à l’intelligence artificielle et aux solutions guidées par les données.
 
 ---
