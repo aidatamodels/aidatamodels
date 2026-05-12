@@ -39,19 +39,33 @@ Mon profil GitHub regroupe mes projets liés à l’analyse de données, à l’
 
 ## 📌 Projet principal
 
-### Seattle Vehicle Collisions Prediction
+### Seattle Collision Risk Dashboard
 
-Projet de science des données visant à prédire la gravité des collisions routières à Seattle à partir de données historiques.
+Dashboard d’IA prédictive pour estimer le risque de collision routière à Seattle à partir de modèles de classification.
 
-Ce projet couvre notamment :
+Ce projet présente une démarche complète de science des données appliquée aux collisions routières. Il combine la préparation des données, l’entraînement de modèles d’apprentissage automatique, la comparaison des performances et la visualisation des résultats dans une interface web interactive publiée avec GitHub Pages.
 
-- la préparation et le nettoyage des données ;
-- l’analyse exploratoire ;
-- la visualisation des tendances ;
-- la modélisation prédictive ;
-- la comparaison de modèles d’apprentissage automatique.
+Le projet couvre :
 
-🔗 [Voir le projet](https://github.com/aidatamodels/seattle-vehicle-collisions-prediction)
+- la préparation et la transformation des données de collisions routières ;
+- la construction d’un jeu analytique pour la classification supervisée ;
+- la comparaison de plusieurs modèles d’apprentissage automatique ;
+- l’évaluation des performances des modèles ;
+- la sélection automatique du meilleur modèle ;
+- la génération d’un fichier JSON exploité par le dashboard ;
+- la visualisation interactive des scénarios de risque.
+
+Modèles comparés :
+
+- Régression logistique équilibrée ;
+- Forêt aléatoire ;
+- Extra Trees.
+
+Le modèle retenu dans l’exécution actuelle est une forêt aléatoire, sélectionnée à partir des métriques de performance calculées par le script Python.
+
+🔗 [Voir le dépôt GitHub](https://github.com/aidatamodels/seattle-collision-risk-dashboard)
+
+🌐 [Ouvrir le dashboard](https://aidatamodels.github.io/seattle-collision-risk-dashboard/)
 
 ---
 
