@@ -87,22 +87,10 @@ Modèle utilisé :
 
 - K-Nearest Neighbors pour la recherche de similarité entre arbres et la classification du type d’arbre.
 
-Technologies utilisées :
-
-- Python ;
-- Pandas ;
-- Scikit-learn ;
-- Requests ;
-- HTML5 ;
-- CSS3 ;
-- JavaScript ;
-- Leaflet.js ;
-- API CKAN ;
-- GitHub Pages.
-
 🔗 [Voir le dépôt GitHub](https://github.com/aidatamodels/quebec-urban-trees-knn-dashboard)
 
 🌐 [Ouvrir le dashboard](https://aidatamodels.github.io/quebec-urban-trees-knn-dashboard/)
+
 
 ### Québec City Permit Intelligence Dashboard
 
