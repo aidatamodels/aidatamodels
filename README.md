@@ -63,6 +63,47 @@ Mon profil GitHub regroupe des projets appliqués liés à l’analyse de donné
 
 ## 📌 Principaux projets
 
+### Québec Urban Trees K-NN Dashboard
+
+Dashboard géospatial de science des données utilisant l’algorithme K-Nearest Neighbors pour explorer les arbres répertoriés de la Ville de Québec, identifier les arbres similaires et illustrer le principe de proximité en apprentissage automatique.
+
+Ce projet utilise les données ouvertes de la Ville de Québec, accessibles via l’API CKAN du portail Données Québec. Il combine extraction de données par API, préparation des variables avec Python, modélisation K-NN, génération d’un fichier `dashboard_data.json` et visualisation cartographique interactive avec Leaflet.js.
+
+Le dashboard permet à l’utilisateur de filtrer les arbres selon plusieurs critères, de naviguer sur la carte, de sélectionner un arbre de référence et de visualiser les arbres les plus similaires selon leurs caractéristiques spatiales, botaniques et descriptives.
+
+Le projet couvre notamment :
+
+- la consommation de données ouvertes via l’API CKAN de Données Québec ;
+- la préparation et le nettoyage des données avec Python ;
+- la sélection de variables numériques et catégorielles pertinentes ;
+- l’utilisation de K-NN pour rechercher des arbres similaires ;
+- la classification du type d’arbre, feuillu ou conifère ;
+- la génération d’un fichier `dashboard_data.json` ;
+- la visualisation géospatiale avec Leaflet.js ;
+- l’ajout de filtres interactifs et d’une interface explicative ;
+- la publication du dashboard avec GitHub Pages.
+
+Modèle utilisé :
+
+- K-Nearest Neighbors pour la recherche de similarité entre arbres et la classification du type d’arbre.
+
+Technologies utilisées :
+
+- Python ;
+- Pandas ;
+- Scikit-learn ;
+- Requests ;
+- HTML5 ;
+- CSS3 ;
+- JavaScript ;
+- Leaflet.js ;
+- API CKAN ;
+- GitHub Pages.
+
+🔗 [Voir le dépôt GitHub](https://github.com/aidatamodels/quebec-urban-trees-knn-dashboard)
+
+🌐 [Ouvrir le dashboard](https://aidatamodels.github.io/quebec-urban-trees-knn-dashboard/)
+
 ### Québec City Permit Intelligence Dashboard
 
 Dashboard géospatial d’IA prédictive pour analyser les permis délivrés à la Ville de Québec, visualiser les zones de concentration et estimer les tendances mensuelles futures.
